@@ -1,0 +1,81 @@
+Vishnupriya R
+📧 vishnupriyarenu.78@gmail.com| 📱 +91-8309266728 | 📍 Bangalore, IN 
+________________________________________
+OBJECTIVE
+To design, implement, and scale DevOps practices using modern cloud and open-source tools, achieving faster release cycles, high application uptime, and stable, self-healing infrastructure.
+________________________________________
+PROFILE SUMMARY
+• DevOps Engineer with 5+ years of experience in designing, automating, and optimizing CI/CD pipelines, cloud infrastructure, and containerized deployments across multiple environments (DEV, QA, PROD).
+• Expertise in AWS Cloud services including EC2, S3, RDS, IAM, CloudWatch, and VPC networking for building scalable and secure cloud architectures.
+• Strong experience with CI/CD automation using Jenkins and AWS CodePipeline, integrating source control (GitHub, Bitbucket), build tools (Maven), and deployment workflows to accelerate delivery cycles.
+• Skilled in containerization and orchestration with Docker and Kubernetes, implementing rolling updates, auto-scaling, and load balancing for high availability.
+• Hands-on experience with infrastructure as code (IaC) using Terraform to provision, manage, and version cloud resources with consistency and repeatability.
+• Proficient in configuration management with Ansible for automating server configuration, software deployment, and patch management, reducing manual errors.
+• Implemented GitOps-driven deployments using Argo CD, ensuring consistent and reliable delivery across multiple environments.
+• Strong knowledge of Linux/Unix administration (Ubuntu, RedHat) including user management, networking, system performance tuning, and shell scripting.
+• Experienced in monitoring and observability using Prometheus, Grafana, Datadog, and AWS CloudWatch, with proactive alerting and custom dashboards to reduce MTTR.
+• Adept at embedding DevSecOps practices, integrating SonarQube for code quality analysis, Trivy and OWASP for container/image vulnerability scanning within CI/CD pipelines.
+• Collaborative team player with proven success in Agile/Scrum environments, supporting cross-functional development, QA, and operations teams.
+• Strong problem-solving skills with a focus on automation, scalability, and cost-optimization for cloud-native solutions.
+• Passionate about continuous improvement and innovation in cloud DevOps practices to ensure faster, more secure, and resilient software delivery.
+________________________________________
+TECHNICAL SKILLS
+•	Cloud Platform: AWS
+•	Operating Systems: Linux (Ubuntu, RedHat), Windows
+•	SCM Tools: Git, GitHub, Bitbucket
+•	Build Tool: Maven
+•	CI/CD Tools: Jenkins, AWS CodePipeline
+•	Containerization & Orchestration: Docker, Kubernetes
+•	IaC: Terraform
+•	Configuration Management: Ansible
+•	Monitoring & Logging: Prometheus, Grafana, Datadog, CloudWatch
+•	Database: MySQL (AWS RDS)
+•	Scripting: Bash
+•	Security Tools: SonarQube, Trivy, OWASP
+________________________________________
+PROFESSIONAL EXPERIENCE
+DevOps Engineer | ABC Retail Ltd (Mar 2019 – Jan 2021) | Hyderabad
+Project: Retail E-Commerce Platform Modernization
+• Automated CI/CD pipelines in Jenkins integrating Git, Maven, and Nexus, cutting release cycle by 25%.
+• Configured branching strategy and webhooks for automated builds and deployments.
+• Built and deployed Docker images for microservices with optimized Dockerfiles.
+• Managed Kubernetes clusters with rolling updates and replica sets, ensuring zero downtime.
+• Implemented Helm charts for templated Kubernetes deployments.
+• Wrote Ansible playbooks for server provisioning, app configuration, and package management.
+• Automated infrastructure provisioning with Terraform for EC2, S3, IAM, and VPC resources.
+• Applied monitoring with Prometheus and custom Grafana dashboards for business KPIs.
+• Integrated SonarQube code quality checks into pipelines.
+• Secured container images using Trivy scanning for vulnerabilities.
+• Optimized AWS costs by configuring auto-scaling and right-sizing instances.
+• Conducted disaster recovery drills with automated backup scripts.
+• Reduced build failures by 30% by implementing automated pre-merge validations.
+• Worked closely with developers to troubleshoot build/test failures.
+• Documented DevOps practices and provided knowledge transfer to new team members.
+
+________________________________________
+DevOps Engineer | Global Healthcare Solutions (Jan 2021 – Feb 2023) | Hyderabad
+Project: Healthcare Application Modernization & Automation
+•	Automated blue-green and canary deployments on Kubernetes, ensuring zero downtime during upgrades.
+•	Enhanced security by integrating SonarQube for code quality, Trivy & OWASP for container vulnerability scanning.
+•	Managed AWS cloud infrastructure with Terraform and Ansible, optimizing provisioning by 40%.
+•	Designed monitoring dashboards in Grafana for application KPIs, reducing incident response time by 35%.
+•	Integrated Argo CD GitOps workflows for automated environment synchronization.
+•	Streamlined application deployments with AWS CodePipeline, improving release governance.
+________________________________________
+Senior DevOps Engineer | Infosys Ltd (Feb 2023 – Present) | Hyderabad
+Client: Matalan Retail Ltd (UK)
+•	Designed and managed end-to-end CI/CD pipelines with Jenkins, cutting deployment frequency from monthly to weekly.
+•	Orchestrated containerized applications in Kubernetes with auto-scaling, load balancing, and fault tolerance.
+•	Automated multi-environment cloud provisioning using Terraform & Ansible, ensuring consistency across DEV, QA, and PROD.
+•	Developed real-time alerting and monitoring using Prometheus, Grafana, and Datadog for proactive issue detection.
+•	Implemented secure DevOps practices by embedding SonarQube, Trivy, and OWASP checks in the pipeline.
+•	Conducted cost-optimization on AWS infrastructure, saving ~20% monthly spend.
+•	Used Argo CD to enforce GitOps principles, reducing deployment errors across clusters.
+________________________________________
+EDUCATION
+•	B.com Computers from SV Arts ________________________________________
+DECLARATION
+I hereby affirm that the details above are true to the best of my knowledge.
+📍 Bangalore
+Name: Vishnupriya
+
